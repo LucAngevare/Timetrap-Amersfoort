@@ -1,0 +1,389 @@
+{
+    "coordinates": [
+        {
+            "id": 1,
+            "coords": {
+                "latitude": 52.15894568448894,
+                "longitude": 5.385274829058595
+            },
+            "dialoog": [
+                {
+                    "personage": {
+                        "naam": "Aria de Historica",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "Hoi [NAME]! Hier begint onze zoektocht naar de waarheid. Doe jij mee? De geesten rond de Koppelpoort bewaren eeuwenoude geheimen. Laten we voorzichtig te werk gaan.",
+                    "options": [
+                        {
+                            "text": "Ik wil door",
+                            "action": 1
+                        },
+                        {
+                            "text": "Ik ben bang, ik wil terug",
+                            "action": 0
+                        }
+                    ]
+                },
+                {
+                    "text": "Terwijl ze zich een weg banen door de poort, beginnen de schimmen te fluisteren."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn de Archeoloog",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "Ik hoor stemmen uit het verleden. Ze vertellen over een lang vergeten conflict dat de stad verscheurde."
+                },
+                {
+                    "personage": {
+                        "naam": "Elara de Boogschutter",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "We moeten deze geesten kalmeren en ontdekken wat er werkelijk is gebeurd. Anders zullen ze ons niet laten gaan."
+                },
+                {
+                    "text": "Diep onder de gewelven van de Koppelpoort, waar schaduwen dansen en de echo's van vervlogen tijdperken weerklinken, staat de groep van avonturiers in een kring. Rondom hen zwermen de geesten van het verleden, hun gedaanten vervagen en vervormen in de nevels van de tijd. Aria kijkt naar haar metgezellen met een blik vol vastberadenheid"
+                },
+                {
+                    "personage": {
+                        "naam": "Aria de Historica",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "We bevinden ons op de drempel van geschiedenis, mijn vrienden. Deze poort is meer dan enkel steen en mortel; het is een portaal naar het verleden van Amersfoort zelf. Laten we onze geesten openstellen en luisteren naar wat de geesten ons te vertellen hebben."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn de Archeoloog",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "Maar hoe kunnen we communiceren met hen? De grens tussen leven en dood is ondoorgrondelijk."
+                },
+                {
+                    "personage": {
+                        "naam": "Elara de Boogschutter",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "Misschien kunnen we ze kalmeren door respect te tonen voor hun verleden. Misschien hebben ze alleen behoefte aan erkenning en begrip.",
+                    "options": [
+                        {
+                            "text": "Respectvolle benadering",
+                            "action": "respectvolle benadering"
+                        },
+                        {
+                            "text": "Actieve benadering",
+                            "action": "actieve benadering"
+                        },
+                        {
+                            "text": "Offer brengen",
+                            "action": "offer brengen"
+                        }
+                    ]
+                },
+                {
+                    "respectvolle benadering": {
+                        "text": "De spelers kiezen ervoor om rustig te gaan zitten en een moment van stilte te delen met de geesten. De geesten, getroffen door de respectvolle houding van de spelers, worden kalmer en beginnen langzaam te spreken. Ze delen verhalen over de bouw van de Koppelpoort, de helden die de stad hebben beschermd en de tragedies die zich hebben afgespeeld tussen haar muren. Naarmate de spelers aandachtig luisteren, onthullen de geesten enkele verborgen passages en verloren artefacten die de groep kunnen helpen op hun reis."
+                    },
+                    "actieve benadering": {
+                        "text": "De spelers kiezen ervoor om actief vragen te stellen aan de geesten, in de hoop meer te weten te komen over de geschiedenis van de poort en de stad. De geesten reageren op de nieuwsgierigheid van de spelers en beginnen levendig te vertellen over de gebeurtenissen die zich hebben afgespeeld rond de Koppelpoort. Ze geven hints over verborgen geheimen en verloren schatten, maar laten ook doorschemeren dat er duistere krachten op de loer liggen in de schaduwen. De spelers ontvangen waardevolle informatie en aanwijzingen over hoe ze verder moeten gaan in hun zoektocht."
+                    },
+                    "offer brengen": {
+                        "text": "De spelers kiezen ervoor om een klein eerbetoon te brengen aan de geesten, zoals een bloem of een kaars. De geesten reageren op het gebaar van de spelers en tonen zich dankbaar voor het respect dat hen wordt betoond. Als teken van waardering delen ze enkele van hun diepste geheimen en mysteries van de Koppelpoort, inclusief de locatie van een verloren artefact dat cruciaal kan zijn voor de volgende fase van de reis. De spelers voelen een warme gloed van goedkeuring van de geesten terwijl ze zich voorbereiden om verder te trekken."
+                    }
+                },
+                {
+                    "text": "Na het verkrijgen van deze inzichten, richt Aria zich tot de groep met een glimlach van voldoening."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria de Historica",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "We hebben de geesten rust gebracht en hun verhalen gehoord. Laten we hun wijsheid in ons hart dragen terwijl we onze reis voortzetten. Het Verloren Kompas wijst ons naar de Stadsmuur. Laten we gaan, en moge onze volgende ontmoeting net zo vruchtbaar zijn als deze."
+                },
+                {
+                    "text": "De Verloren Kompas wijst naar de volgende locatie: Stadsmuur."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "coords": {
+                "latitude": "52.16015546860669",
+                "longitude": "5.394400421995704"
+            },
+            "dialoog": [
+                {
+                    "text": "De avonturiers staan nu op de eeuwenoude stadsmuur, waar de wind de verhalen van vervlogen tijden lijkt te fluisteren."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria de Historica",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "De Stadsmuur heeft meer te vertellen dan je op het eerste gezicht zou denken. Laten we de geheimen ontsluiten."
+                },
+                {
+                    "text": "Ze ontdekken een vergeten doorgang in de muur die hen leidt naar een mysterieuze kamer, waar oude kaarten en documenten liggen."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn de Archeoloog",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "Kijk eens naar deze kaarten. Ze onthullen verborgen gangenstelsels en vergeten tunnels onder de stad. Misschien kunnen we ze gebruiken om de volgende uitdaging te overwinnen."
+                },
+                {
+                    "text": "Na het bestuderen van de kaarten, besluiten ze de volgende bestemming te verkennen: Flehite."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "coords": {
+                "latitude": "52.1577964400846",
+                "longitude": "5.386798601410755"
+            },
+            "dialoog": [
+                {
+                    "text": "In het museum Flehite stuiten de avonturiers op een kunstwerk dat meer lijkt te zijn dan alleen schilderijen."
+                },
+                {
+                    "personage": {
+                        "naam": "Elara de Boogschutter",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "Wat is dit voor vreemd schilderij? Het lijkt alsof de figuren eruit willen stappen."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria de Historica",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "Dat is het werk van de schilder Mondriaan. Er wordt gezegd dat zijn kunst een brug vormt tussen werelden. Misschien bevat het een aanwijzing voor onze queeste."
+                },
+                {
+                    "text": "Terwijl de groep avonturiers zich verzamelt voor het kleurrijke schilderij in het Piet Mondriaan Huis, worden ze plotseling omringd door een magische gloed. Het schilderij begint te vibreren en uit te breiden, totdat het de hele ruimte vult met een betoverend licht. Een draaikolk van kleuren omhult hen en voert hen weg van de werkelijkheid, naar een andere dimensie vol kleurrijke uitdagingen.",
+                    "options": [
+                        {
+                            "text": "Verkenning van de nieuwe dimensie",
+                            "action": "verkenning van de nieuwe dimensie"
+                        },
+                        {
+                            "text": "Alliantie sluiten met de inwoners van de dimensie",
+                            "action": "alliantie sluiten met de inwoners van de dimensie"
+                        },
+                        {
+                            "text": "Confronteren van de duistere krachten van de dimensie",
+                            "action": "confronteren van de duistere krachten van de dimensie"
+                        }
+                    ]
+                },
+                {
+                    "verkenning van de nieuwe dimensie": {
+                        "text": "De spelers kiezen ervoor om de nieuwe dimensie te verkennen en te onderzoeken wat voor uitdagingen er op hen wachten. Ze komen al snel oog in oog te staan met kleurrijke wezens en bizarre landschappen die hun verbeelding tarten. Door hun moed en vastberadenheid navigeren de spelers door een reeks puzzels, platformuitdagingen en kleurrijke doolhoven. Ze ontdekken verborgen schatten en waardevolle artefacten die alleen in deze dimensie te vinden zijn. Na het overwinnen van alle uitdagingen en het vergaren van nieuwe kennis en vaardigheden, worden de spelers teruggebracht naar de werkelijkheid, vervuld van trots over hun prestaties."
+                    },
+                    "alliantie sluiten met de inwoners van de dimensie": {
+                        "text": "De spelers kiezen ervoor om vriendschap te sluiten met de kleurrijke wezens die de nieuwe dimensie bewonen. Door vriendelijkheid en begrip tonen, winnen ze het vertrouwen van deze wezens en krijgen ze hun hulp bij het overwinnen van de uitdagingen die voor hen liggen. De wezens bieden waardevolle informatie en aanwijzingen, en werken samen met de spelers om obstakels te overwinnen en geheimen te ontsluieren. Na een diepgaande samenwerking worden de spelers teruggebracht naar de werkelijkheid, gesterkt door de banden die ze hebben gesmeed in de andere dimensie."
+                    },
+                    "confronteren van de duistere krachten van de dimensie": {
+                        "text": "De spelers kiezen ervoor om rechtstreeks de confrontatie aan te gaan met de duistere krachten die de nieuwe dimensie teisteren. Gewapend met moed en vastberadenheid, trotseren ze gevaarlijke vijanden en nemen ze het op tegen angstaanjagende uitdagingen die hen proberen tegen te houden. Door hun vaardigheden en strategisch inzicht te gebruiken, weten de spelers de duisternis te verdrijven en het evenwicht te herstellen in de nieuwe dimensie. Met de overwinning op zak worden ze teruggebracht naar de werkelijkheid, waar ze triomfantelijk beseffen dat ze samen elke uitdaging kunnen overwinnen."
+                    }
+                },
+                {
+                    "text": "Na het doorstaan van talloze uitdagingen, waar kleuren en patronen hen op elke hoek verrasten, voelen de avonturiers een plotselinge ruk aan hun wezen. De betovering begint langzaam af te nemen en ze worden teruggebracht naar de werkelijkheid, waar ze weer voor het schilderij van Mondriaan staan, ademloos van de ervaring die ze net hebben gehad. Met nieuwe inzichten en een gevoel van vervulling vervolgen ze hun zoektocht, klaar om de volgende uitdaging aan te gaan."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn de Archeoloog",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "Mondriaan's kunst bracht ons dichter bij de waarheid. Laten we verder gaan naar de Mannenzaal"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "coords": {
+                "latitude": "52.15772606895957",
+                "longitude": "5.38600878190637"
+            },
+            "dialoog": [
+                {
+                    "text": "In de Mannenzaal ontdekken de avonturiers een stem van een overleden man die de mensen in de zaal terroriseert."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria de Historica",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "Deze man wil wat van ons vragen. Laten we luisteren naar wat hij van ons wilt."
+                },
+                {
+                    "text": "De groep luistert aandachtig naar de stem van de geest en horen dat hij vraagt om een ketting."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn de Archeoloog",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "Hij wil dat we zijn ketting gaan vinden en die terugbrengen naar de mannenzaal."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria de Historica",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "Laten we naar de Langestraat gaan, in de hoop daar meer informatie te kunnen vinden over zijn ketting."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "coords": {
+                "latitude": "52.155531931414956",
+                "longitude": "5.389673892451314"
+            },
+            "dialoog": [
+                {
+                    "text": "In de drukke Langestraat ontmoet de groep een oude handelaar met een mysterieuze sleutel."
+                },
+                {
+                    "personage": {
+                        "naam": "Handelaar"
+                    },
+                    "text": "Deze sleutel opent de deur naar de volgende uitdaging. Maar pas op, het is niet zomaar een deur."
+                },
+                {
+                    "text": "De sleutel opent een doorgang naar de Onze Lieve Vrouwetoren, waar een spinnenweb van magische draden de weg naar de top verspert."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "coords": {
+                "latitude": "52.155190144377976",
+                "longitude": "5.387216591754665"
+            },
+            "dialoog": [
+                {
+                    "personage": {
+                        "naam": "Elara de Boogschutter",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "We moeten dit web doorknippen, maar elk draadje heeft zijn eigen uitdaging. Laat me dat regelen."
+                },
+                {
+                    "text": "Elara gebruikt behendigheid en precisieschoten om het web te ontrafelen. Op de top vinden ze een vergeten artefact dat hen leidt naar de verloren ketting van de geest."
+                },
+                {
+                    "personage": {
+                        "naam": "Elara de Boogschutter",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "Kijk eens aan! Dat is de ketting. Laten we hem snel terugbrengen naar de Mannenzaal."
+                },
+                {
+                    "text": "De groep avonturiers gaan naar de Mannenzaal en brengen de verloren ketting terug naar de geest."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "coords": {
+                "latitude": "52.155299330491026",
+                "longitude": "5.392187468446052"
+            },
+            "dialoog": [
+                {
+                    "text": "In de Muurhuizen, een doolhof van smalle steegjes en historische woningen, stuiten de avonturiers op een betoverde deur."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn de Archeoloog",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "De Tijdsleutel zal ons hier van pas komen. Laten we zien waar deze deur ons naartoe brengt."
+                },
+                {
+                    "text": "De Tijdsleutel opent een portaal naar het verleden, waar ze getuige zijn van historische gebeurtenissen die de stad hebben gevormd. Na het begrijpen van deze gebeurtenissen, keren ze terug naar het heden."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "coords": {
+                "latitude": "52.1572467288272",
+                "longitude": "5.393018212620495"
+            },
+            "dialoog": [
+                {
+                    "personage": {
+                        "naam": "Elara de Boogschutter",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "Het verleden heeft ons de weg gewezen. Laten we naar de Kamperbinnenpoort gaan."
+                },
+                {
+                    "text": "Voor de imposante Kamperbinnenpoort worden de avonturiers geconfronteerd met een reeks uitdagingen die het lot van de stad lijken te beïnvloeden."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria de Historica",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "Deze poort is de sleutel tot de bescherming van Amersfoort. Laten we de uitdagingen aangaan en de poort openen om de stad te redden."
+                },
+                {
+                    "text": "Na het overwinnen van de uitdagingen opent de poort zich, maar de duisternis lijkt zich te verdichten rondom de Joriskerk."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "coords": {
+                "latitude": "52.15678204028688",
+                "longitude": "5.39020828194143"
+            },
+            "dialoog": [
+                {
+                    "text": "Voor de Joriskerk staan de avonturiers tegenover een duistere figuur die de kracht van duistere magie bezit."
+                },
+                {
+                    "personage": {
+                        "naam": "Duistere Figuur"
+                    },
+                    "text": "Jullie avontuur eindigt hier! Amersfoort zal vallen onder mijn heerschappij!"
+                },
+                {
+                    "text": "Een epische strijd ontvouwt zich voor de Joriskerk, waar Elara's pijlen, Finn's archeologische vondsten en Aria's kennis cruciaal zijn om de duistere figuur te verslaan."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn de Archeoloog",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "We hebben de stad gered, maar er is nog één locatie over - de Joodse begraafplaats."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "coords": {
+                "latitude": "52.16029030798136",
+                "longitude": "5.3898349415756845"
+            },
+            "dialoog": [
+                {
+                    "personage": {
+                        "naam": "Aria de Historica",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "We moeten eer bewijzen aan degenen die hun leven aan de stad hebben gewijd. Laten we een eerbetoon brengen en hun rust respecteren."
+                },
+                {
+                    "text": "De groep plaatst een oud artefact op het graf van een vergeten held, en de grond trilt van de goedkeuring van degenen die rusten."
+                }
+            ]
+        }
+    ]
+}

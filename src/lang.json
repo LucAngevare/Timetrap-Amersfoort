@@ -1,0 +1,48 @@
+{
+    "nederlands": {
+        "menu": "Menu",
+        "lang": "Taal / Language",
+        "nederlands": "Nederlands",
+        "engels": "Engels",
+        "muziek": "Muziek",
+        "geen": "Geen",
+        "font": "Verander lettertype",
+        "kleur": "Kleur",
+        "rood": "Rood",
+        "blauw": "Blauw",
+        "naam": "Naam",
+        "tts": "Text to speech",
+        "aan": "Aan",
+        "uit": "Uit",
+        "darkmode": "Darkmode",
+        "requirements": {
+            "naamReq": "Naam mag alleen letters, spaties of koppeltekens bevatten.",
+            "naamLeeg": "Naamveld mag niet leeg zijn"
+        },
+        "start": "Start",
+        "verder": "Verder!"
+    },
+    "engels": {
+        "menu": "Menu",
+        "lang": "Taal / Language",
+        "nederlands": "Dutch",
+        "engels": "English",
+        "muziek": "Music",
+        "geen": "None",
+        "font": "Change font",
+        "kleur": "Color",
+        "rood": "Red",
+        "blauw": "Blue",
+        "naam": "Name",
+        "tts": "Text to speech",
+        "aan": "Enabled",
+        "uit": "Disabled",
+        "darkmode": "Darkmode",
+        "requirements": {
+            "naamReq": "The name may only contain letters, spaces and dashes.",
+            "naamLeeg": "Naamveld mag niet leeg zijn"
+        },
+        "start": "Start",
+        "verder": "Continue!"
+    }
+}

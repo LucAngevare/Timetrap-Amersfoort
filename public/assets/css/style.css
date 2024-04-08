@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+html, body{
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    min-width: 100vw;
+    font-weight: 400;
+    font-style: normal;
+}
+h1, h2, h3, h4, h5, p{
+    margin: 0;
+    font-weight: 400;
+    font-style: normal;
+}
+.menu{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px 60px;
+    background-color: #fff;
+    text-align: center;
+    opacity: 1;
+    animation: showMenu 1s;
+}
+.menu .title{
+    font-size: 60px;
+    margin: 10px 0;
+}
+.menu .options{
+    padding: 10px;
+    background-color: #D9D9D9;
+    text-align: left;
+}
+.menu .start-btn{
+    padding: 10px 30px;
+    background-color: #D9D9D9;
+    font-size: 17px;
+    margin: 10px;
+    outline: none;
+    border: none;
+    font-family: 'Gideon-Roman', sans-serif;
+    cursor: pointer;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex > *{
+    margin: 0 10px;
+}
+.options div{
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 10px;
+    margin: 10px 0;
+}
+#error-msg{
+    display: none;
+    color: rgb(253, 17, 17);
+}
+.menuBtn{
+    display: block;
+    top: 10px;
+    left: 10px;
+    position: fixed;
+    border: none;
+    outline: none;
+    background: transparent;
+    z-index: 99;
+    cursor: pointer;
+}
+.menuBtn svg{
+    height: 50px;
+    width: 50px;
+}
+.markBtn{
+    display: block;
+    cursor: pointer;
+    background: transparent;
+    outline: none;
+    border: none;
+    transform: translateY(-50%);
+}
+.markBtn:not(.deactive){
+    cursor: inherit;
+}
+.markBtn.active{
+    transform: scale(150%) translateY(-30%);
+}
+.markBtn:hover:not(.markBtn.active):not(.markBtn.deactive) svg{
+    transform: scale(150%) translateY(-30%);
+}
+.markBtn svg{
+    transition-duration: .3s;
+    height: 40px;
+    width: 40px;
+}
+.dialoguebg{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 80% !important;
+    width: 100%;
+    padding: 20px 40px;
+    z-index: 99;
+    background-color: #fff;
+}
+.dialoguebg .dialogueinnerbox{
+    display: grid;
+    grid-template-columns: auto auto;
+    column-gap: 10px;
+}
+.dialoguebg .image{
+    display: block;
+    width: 200px;
+    text-align: center;
+}
+.dialoguebg .image img{
+    width: 100%;
+}
+.dialoguebg .dialogueinnerbox > *{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    height: min-content;
+}
+.dialogue-btn{
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 4px;
+    background-color: #2894f3;
+    color: #fff;
+    font-size: 17px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+}
+@keyframes showMenu{
+    0%{
+        opacity: 0;
+        top: 40%;
+    }
+    100%{
+        opacity: 1;
+        top: 50%;
+    }
+}

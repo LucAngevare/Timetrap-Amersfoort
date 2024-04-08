@@ -1,0 +1,389 @@
+{
+    "coordinates": [
+        {
+            "id": 1,
+            "coords": {
+                "latitude": 52.15894568448894,
+                "longitude": 5.385274829058595
+            },
+            "dialoog": [
+                {
+                    "personage": {
+                        "naam": "Aria the Historian",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "Hi [NAME]! Here begins our quest for truth. Will you join? The spirits around the Koppelpoort harbor ancient secrets. Let's proceed with caution.",
+                    "options": [
+                        {
+                            "text": "I want to proceed",
+                            "action": 1
+                        },
+                        {
+                            "text": "I'm scared, I want to go back",
+                            "action": 0
+                        }
+                    ]
+                },
+                {
+                    "text": "As they make their way through the gate, the shadows begin to whisper."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn the Archaeologist",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "I hear voices from the past. They speak of a long-forgotten conflict that tore the city apart."
+                },
+                {
+                    "personage": {
+                        "naam": "Elara the Archer",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "We must calm these spirits and discover what truly happened. Otherwise, they won't let us go."
+                },
+                {
+                    "text": "Deep within the vaults of the Koppelpoort, where shadows dance and echoes of bygone eras resonate, the group of adventurers stands in a circle. Around them swarm the spirits of the past, their forms fading and morphing in the mists of time. Aria looks at her companions with a determined gaze."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria the Historian",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "We stand on the threshold of history, my friends. This gate is more than just stone and mortar; it's a portal to Amersfoort's own past. Let us open our minds and listen to what the spirits have to tell us."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn the Archaeologist",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "But how can we communicate with them? The boundary between life and death is unfathomable."
+                },
+                {
+                    "personage": {
+                        "naam": "Elara the Archer",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "Perhaps we can calm them by showing respect for their past. Maybe they only need acknowledgment and understanding.",
+                    "options": [
+                        {
+                            "text": "Respectful approach",
+                            "action": "respectful approach"
+                        },
+                        {
+                            "text": "Active approach",
+                            "action": "active approach"
+                        },
+                        {
+                            "text": "Make an offering",
+                            "action": "make an offering"
+                        }
+                    ]
+                },
+                {
+                    "respectful approach": {
+                        "text": "The players choose to sit quietly and share a moment of silence with the spirits. Touched by the players' respectful attitude, the spirits calm down and begin to speak slowly. They share stories about the construction of the Koppelpoort, the heroes who protected the city, and the tragedies that unfolded within its walls. As the players listen attentively, the spirits reveal some hidden passages and lost artifacts that can help the group on their journey."
+                    },
+                    "active approach": {
+                        "text": "The players choose to actively ask questions to the spirits, hoping to learn more about the history of the gate and the city. The spirits respond to the players' curiosity and begin to vividly recount the events that occurred around the Koppelpoort. They give hints about hidden secrets and lost treasures, but also hint that dark forces lurk in the shadows. The players receive valuable information and clues on how to proceed in their quest."
+                    },
+                    "make an offering": {
+                        "text": "The players choose to bring a small tribute to the spirits, such as a flower or a candle. The spirits react to the players' gesture and show gratitude for the respect shown to them. As a sign of appreciation, they share some of their deepest secrets and mysteries of the Koppelpoort, including the location of a lost artifact that could be crucial for the next phase of the journey. The players feel a warm glow of approval from the spirits as they prepare to move on."
+                    }
+                },
+                {
+                    "text": "After gaining these insights, Aria addresses the group with a satisfied smile."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria the Historian",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "We have brought peace to the spirits and heard their stories. Let us carry their wisdom in our hearts as we continue our journey. The Lost Compass points us to the City Wall. Let's go, and may our next encounter be as fruitful as this one."
+                },
+                {
+                    "text": "The Lost Compass points to the next location: City Wall."
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "coords": {
+                "latitude": "52.16015546860669",
+                "longitude": "5.394400421995704"
+            },
+            "dialoog": [
+                {
+                    "text": "The adventurers are now on the ancient city wall, where the wind seems to whisper tales of times past."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria the Historian",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "The City Wall has more to tell than meets the eye. Let's unlock its secrets."
+                },
+                {
+                    "text": "They discover a forgotten passage in the wall leading them to a mysterious room, where old maps and documents lie."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn the Archaeologist",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "Look at these maps. They reveal hidden underground passages and forgotten tunnels beneath the city. Perhaps we can use them to overcome the next challenge."
+                },
+                {
+                    "text": "After studying the maps, they decide to explore the next destination: Flehite."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "coords": {
+                "latitude": "52.1577964400846",
+                "longitude": "5.386798601410755"
+            },
+            "dialoog": [
+                {
+                    "text": "In the Flehite museum, the adventurers come across an artwork that seems to be more than just paintings."
+                },
+                {
+                    "personage": {
+                        "naam": "Elara the Archer",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "What is this strange painting? It's as if the figures want to step out of it."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria the Historian",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "That's the work of the painter Mondrian. It's said that his art forms a bridge between worlds. Perhaps it contains a clue for our quest."
+                },
+                {
+                    "text": "As the group of adventurers gathers before the colorful painting in the Piet Mondrian House, they are suddenly surrounded by a magical glow. The painting begins to vibrate and expand until it fills the entire space with an enchanting light. A whirlpool of colors envelops them and transports them away from reality, to another dimension full of colorful challenges.",
+                    "options": [
+                        {
+                            "text": "Exploration of the new dimension",
+                            "action": "exploration of the new dimension"
+                        },
+                        {
+                            "text": "Form an alliance with the inhabitants of the dimension",
+                            "action": "form an alliance with the inhabitants of the dimension"
+                        },
+                        {
+                            "text": "Confront the dark forces of the dimension",
+                            "action": "confront the dark forces of the dimension"
+                        }
+                    ]
+                },
+                {
+                    "exploration of the new dimension": {
+                        "text": "The players choose to explore the new dimension and investigate the challenges that await them. They soon come face to face with colorful creatures and bizarre landscapes that defy their imagination. Through their bravery and determination, the players navigate through a series of puzzles, platform challenges, and colorful mazes. They discover hidden treasures and valuable artifacts that are only found in this dimension. After overcoming all challenges and gaining new knowledge and skills, the players are brought back to reality, filled with pride in their achievements."
+                    },
+                    "form an alliance with the inhabitants of the dimension": {
+                        "text": "The players choose to make friends with the colorful beings inhabiting the new dimension. By showing kindness and understanding, they gain the trust of these beings and enlist their help in overcoming the challenges ahead. The beings offer valuable information and clues, and work together with the players to overcome obstacles and unlock secrets. After a deep collaboration, the players are brought back to reality, strengthened by the bonds they have forged in the other dimension."
+                    },
+                    "confront the dark forces of the dimension": {
+                        "text": "The players choose to confront the dark forces that plague the new dimension head-on. Armed with courage and determination, they brave dangerous enemies and face terrifying challenges that try to stop them. Using their skills and strategic insight, the players dispel the darkness and restore balance in the new dimension. With victory in hand, they are brought back to reality, where they triumphantly realize that together they can overcome any challenge."
+                    }
+                },
+                {
+                    "text": "After enduring countless challenges, where colors and patterns surprised them at every turn, the adventurers feel a sudden tug at their beings. The enchantment begins to slowly fade, and they are brought back to reality, standing once again before Mondrian's painting, breathless from the experience they just had. With new insights and a sense of fulfillment, they continue their quest, ready to face the next challenge."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn the Archaeologist",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "Mondrian's art brought us closer to the truth. Let's move on to the Mannenzaal."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "coords": {
+                "latitude": "52.15772606895957",
+                "longitude": "5.38600878190637"
+            },
+            "dialoog": [
+                {
+                    "text": "In the Mannenzaal, the adventurers discover the voice of a deceased man terrorizing the people in the hall."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria the Historian",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "This man wants to ask something of us. Let's listen to what he wants from us."
+                },
+                {
+                    "text": "The group listens attentively to the voice of the spirit and hear that he is asking for a necklace."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn the Archaeologist",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "He wants us to find his necklace and bring it back to the Mannenzaal."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria the Historian",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "Let's go to the Langestraat, hoping to find more information there about his necklace."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "coords": {
+                "latitude": "52.155531931414956",
+                "longitude": "5.389673892451314"
+            },
+            "dialoog": [
+                {
+                    "text": "In the bustling Langestraat, the group meets an old merchant with a mysterious key."
+                },
+                {
+                    "personage": {
+                        "naam": "Merchant"
+                    },
+                    "text": "This key opens the door to the next challenge. But beware, it's not just any door."
+                },
+                {
+                    "text": "The key opens a passage to the Onze Lieve Vrouwetoren, where a spiderweb of magical threads blocks the way to the top."
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "coords": {
+                "latitude": "52.155190144377976",
+                "longitude": "5.387216591754665"
+            },
+            "dialoog": [
+                {
+                    "personage": {
+                        "naam": "Elara the Archer",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "We need to cut through this web, but each thread has its own challenge. Let me handle that."
+                },
+                {
+                    "text": "Elara skillfully uses agility and precision shots to unravel the web. At the top, they find a forgotten artifact that leads them to the lost necklace of the spirit."
+                },
+                {
+                    "personage": {
+                        "naam": "Elara the Archer",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "There it is! That's the necklace. Let's quickly bring it back to the Mannenzaal."
+                },
+                {
+                    "text": "The group of adventurers goes to the Mannenzaal and returns the lost necklace to the spirit."
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "coords": {
+                "latitude": "52.155299330491026",
+                "longitude": "5.392187468446052"
+            },
+            "dialoog": [
+                {
+                    "text": "In the Muurhuizen, a maze of narrow alleys and historic homes, the adventurers come across an enchanted door."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn the Archaeologist",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "The Time Key will come in handy here. Let's see where this door leads us."
+                },
+                {
+                    "text": "The Time Key opens a portal to the past, where they witness historical events that shaped the city. After understanding these events, they return to the present."
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "coords": {
+                "latitude": "52.1572467288272",
+                "longitude": "5.393018212620495"
+            },
+            "dialoog": [
+                {
+                    "personage": {
+                        "naam": "Elara the Archer",
+                        "image": "/assets/images/image3.png"
+                    },
+                    "text": "The past has shown us the way. Let's go to the Kamperbinnenpoort."
+                },
+                {
+                    "text": "In front of the imposing Kamperbinnenpoort, the adventurers face a series of challenges that seem to influence the fate of the city."
+                },
+                {
+                    "personage": {
+                        "naam": "Aria the Historian",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "This gate is the key to protecting Amersfoort. Let's tackle the challenges and open the gate to save the city."
+                },
+                {
+                    "text": "After overcoming the challenges, the gate opens, but the darkness seems to thicken around the Joriskerk."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "coords": {
+                "latitude": "52.15678204028688",
+                "longitude": "5.39020828194143"
+            },
+            "dialoog": [
+                {
+                    "text": "In front of the Joriskerk, the adventurers face a dark figure possessing the power of dark magic."
+                },
+                {
+                    "personage": {
+                        "naam": "Dark Figure"
+                    },
+                    "text": "Your adventure ends here! Amersfoort will fall under my rule!"
+                },
+                {
+                    "text": "An epic battle unfolds in front of the Joriskerk, where Elara's arrows, Finn's archaeological findings, and Aria's knowledge are crucial to defeating the dark figure."
+                },
+                {
+                    "personage": {
+                        "naam": "Finn the Archaeologist",
+                        "image": "/assets/images/image6.png"
+                    },
+                    "text": "We've saved the city, but there's one location left - the Jewish Cemetery."
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "coords": {
+                "latitude": "52.16029030798136",
+                "longitude": "5.3898349415756845"
+            },
+            "dialoog": [
+                {
+                    "personage": {
+                        "naam": "Aria the Historian",
+                        "image": "/assets/images/image4.png"
+                    },
+                    "text": "We must pay tribute to those who have dedicated their lives to the city. Let's bring an offering and respect their rest."
+                },
+                {
+                    "text": "The group places an ancient artifact on the grave of a forgotten hero, and the ground trembles with the approval of those who rest."
+                }
+            ]
+        }
+    ]
+}
